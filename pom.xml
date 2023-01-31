@@ -7,7 +7,11 @@
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>3.0.1</version>
 		<relativePath/> <!-- lookup parent from repository -->
+
 		<!-- Changes By DevIndia -->
+    
+		<!-- Changes By DevUSA -->
+
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>demo</artifactId>
